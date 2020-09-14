@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T13:51:47.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="CnQJAOMgOM3BIyQbR0mK" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T13:54:36.679Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="hs6ZnMRn1jxHKe1dvd-P" version="13.6.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1145" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,11 +70,20 @@
         <mxCell id="td914_FNIlo8KRDrRCX8-39" value="&quot;Nice to meet you [user name]&quot; + more info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="260" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="td914_FNIlo8KRDrRCX8-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="td914_FNIlo8KRDrRCX8-55" target="td914_FNIlo8KRDrRCX8-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="td914_FNIlo8KRDrRCX8-55" value="EXPLORE THE ROOM?" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="480" width="100" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="td914_FNIlo8KRDrRCX8-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="td914_FNIlo8KRDrRCX8-56" target="td914_FNIlo8KRDrRCX8-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="td914_FNIlo8KRDrRCX8-56" value="SPEAK TO CHARACTER?" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="480" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="td914_FNIlo8KRDrRCX8-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="td914_FNIlo8KRDrRCX8-57" target="td914_FNIlo8KRDrRCX8-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="td914_FNIlo8KRDrRCX8-57" value="LOOK FOR CLUES?" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="480" width="100" height="70" as="geometry" />
@@ -96,6 +105,15 @@
         </mxCell>
         <mxCell id="td914_FNIlo8KRDrRCX8-63" value="&quot;What would you like to do first?&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="350" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="td914_FNIlo8KRDrRCX8-70" value="Describe the room in more detail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="175" y="585" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="td914_FNIlo8KRDrRCX8-73" value="Introduces the character and puts forward a question/challenge" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="427.5" y="585" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="td914_FNIlo8KRDrRCX8-74" value="Describe objects in the room&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="675" y="585" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
